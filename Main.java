@@ -1,4 +1,4 @@
-public class OOThis {
+public class Main {
   int modelYear;
   String modelName;
 
